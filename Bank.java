@@ -1,4 +1,4 @@
-package HW6;
+package BankFiltering;
 
 import java.util.Random;
 import java.util.Scanner;
