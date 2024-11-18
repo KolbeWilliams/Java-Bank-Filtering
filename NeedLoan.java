@@ -1,4 +1,4 @@
-package HW6;
+package BankFiltering;
 
 //NeedLoan class finds the loan-providing banks
 public class NeedLoan 
